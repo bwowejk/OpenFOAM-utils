@@ -1,2 +1,4 @@
 //to get cell centre
-postProcess -func writeCellCentres
+1. postProcess -func writeCellCentres
+
+2. then run getCellCentres patch time csv_file
