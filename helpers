@@ -1,0 +1,2 @@
+//to get cell centre
+postProcess -func writeCellCentres
